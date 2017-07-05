@@ -1,0 +1,21 @@
+.navDiv {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 25px;
+    margin-top: 20px;
+}
+
+.pill {
+    padding: 12px;
+    background: #0A6879;
+    border-radius: 22px;
+    border: .13rem solid #B5E9E0;
+    font-size: x-large;
+    box-shadow: 5px;
+}
+
+a {
+    color: #F2FC71;
+    size: 14px;
+    text-decoration:none; 
+}

@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Jim+Nightshade');
+
+.App-header {
+    background: linear-gradient(to bottom right, #0A6879, #1C8295, #98ECD9);
+    padding-bottom: 1px;
+    padding-top: 25px;
+    padding-right: 50%;
+    color: #F2FC71;
+    text-shadow: 1px 1px 2px #1E90FF, 0 0 1em lime, 0 0 0.1em red;
+}
+
+.headline {
+    font-family: "Jim Nightshade", cursive;
+    font-size: 46px;
+    padding-bottom: 5px;
+    margin-bottom: 0;
+}
+.App-intro {
+    font-size: large;
+}
