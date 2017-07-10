@@ -2,7 +2,7 @@
   "name": "my-blog",
   "version": "1.0.0",
   "description": "A space for me to talk about various topics. mostly javascript.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "./node_modules/.bin/webpack -d --watch",
@@ -19,6 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.15.3",
+    "express-react-views": "^0.10.2",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-router": "^4.1.1"
